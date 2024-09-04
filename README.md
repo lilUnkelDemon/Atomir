@@ -1,7 +1,7 @@
 
-<center>
-<img src="https://github.com/user-attachments/assets/30886ba2-7819-42e6-b71a-4b830f4d2acc" alt="LOGO IMAGE" width="200"/>
-</center>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30886ba2-7819-42e6-b71a-4b830f4d2acc" alt="LOGO IMAGE" width="200"/>
+</p>
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
