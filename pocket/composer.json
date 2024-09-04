@@ -1,0 +1,15 @@
+{
+    "name": "atomir/atomir-core",
+    "description": "this is my framework core",
+    "autoload": {
+        "psr-4": {
+            "Atomir\\AtomirCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arjamehr"
+        }
+    ],
+    "require": {}
+}

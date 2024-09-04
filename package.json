@@ -1,0 +1,16 @@
+{
+  "name": "atomir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css:build" : "npx tailwindcss -i ./resources/css/style.css -o ./public/css/main.css --watch",
+    "css:watch" : "npx tailwindcss -i ./resources/css/style.css -o ./public/css/main.css --minify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
