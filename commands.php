@@ -1,6 +1,5 @@
 <?php
 
-// کدهای ANSI برای رنگ‌ها
 $colors = [
     'green' => "\033[32m",
     'yellow' => "\033[33m",
@@ -8,7 +7,6 @@ $colors = [
     'reset' => "\033[0m"
 ];
 
-// دریافت آرگومان‌ها
 $options = getopt("c:p:");
 
 $command = isset($options['c']) ? $options['c'] : null;
