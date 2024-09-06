@@ -1,6 +1,7 @@
 {
     "name": "herrteufel/atomir",
     "type": "project",
+    "license": "GPL-3.0-only",
     "autoload": {
         "psr-4": {
             "App\\": "app/"
